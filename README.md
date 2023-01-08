@@ -1,1 +1,1 @@
-<img src="![Uploading Untitled-1.png…]()" />
+![Uploading Untitled-1.png…]()
