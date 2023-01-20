@@ -15,3 +15,12 @@
 
 
 <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/nodejs-1-logo.png" style="width:30px;"/>Node.js 👾👾
+
+| Skill  | skill level |
+| ------------- | ------------- |
+| Python  | 👾👾👾👾👾  |
+| Django  | 👾👾👾👾👾  |
+| JavaScript  | 👾👾👾👾  |
+| React.js  | 👾👾👾👾👾  |
+| MySQL  | 👾👾👾  |
+| Node.js  | 👾👾  |
