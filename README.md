@@ -3,9 +3,9 @@
 
 ## My Skils :
 
-| Skill  | skill level |
+| Skill  | skill level | discription |
 | ------------- | ------------- |
-| Python  | 👾👾👾👾👾  |   My superhero can analyze malware written in Python in the blink of an eye .
+| Python  | 👾👾👾👾👾  |   My superhero can analyze malware written in Python in the blink of an eye . |
 | Django  | 👾👾👾👾👾  |
 | JavaScript  | 👾👾👾👾  |
 | React.js  | 👾👾👾👾👾  |
