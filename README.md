@@ -5,7 +5,7 @@
 
 | Skill  | skill level |
 | ------------- | ------------- |
-| Python  | 👾👾👾👾👾  |
+| Python  | 👾👾👾👾👾  |   My superhero can analyze malware written in Python in the blink of an eye .
 | Django  | 👾👾👾👾👾  |
 | JavaScript  | 👾👾👾👾  |
 | React.js  | 👾👾👾👾👾  |
